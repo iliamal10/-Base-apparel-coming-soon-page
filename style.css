@@ -111,6 +111,7 @@ input {
   border-radius: 50px;
   font-size: 16px;
   width: 390px;
+  margin-left: 165px;
 }
 
 button {
@@ -123,7 +124,7 @@ button {
   position: absolute;
   transition: opacity 0.2s ease;
   width: 100px;
-  left: 360px;
+  left: 520px;
   cursor: pointer;
 }
 
@@ -135,7 +136,8 @@ small {
   color: hsl(0, 93%, 68%);
   display: none;
   margin-top: 20px;
-  margin-left: 30px;
+
+  margin-left: 180px;
 }
 
 form.error .error-icon {
@@ -146,7 +148,7 @@ form.error .error-icon {
   display: none;
   position: absolute;
   top: 5px;
-  left: 325px;
+  left: 485px;
   transform: translateY(25%);
 }
 
